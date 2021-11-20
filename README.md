@@ -1,2 +1,2 @@
-# MNIST-BasianConvAutoEncoder
- baysian convolutional autoencoder
+# MNIST-BayesianConvAutoEncoder
+ Bayesian convolutional autoencoder
