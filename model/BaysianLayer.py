@@ -70,8 +70,8 @@ class bconv2D(nn.Module):
 
     def forward(self, X):
         W, b = self.get_weight()
-        print(W.shape)
-        print(b.shape)
+        #print(W.shape)
+        #print(b.shape)
         return f.conv2d(X, W, b)
 
 
